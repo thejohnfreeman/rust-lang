@@ -1,5 +1,5 @@
 const gifts: [&str; 12] = [
-    "a partride in a pear tree",
+    "a partridge in a pear tree",
     "two turtle doves",
     "three french hens",
     "four calling birds",
